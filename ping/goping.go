@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/liuxinglanyue/mtr"
 	"net"
 	"os"
 	"time"
+
+	"github.com/gooops/mtr"
 )
 
 const default_local_addr = "0.0.0.0"
